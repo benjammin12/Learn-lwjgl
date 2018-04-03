@@ -12,6 +12,8 @@ compileJava {
 }
 project.ext.lwjglVersion = "3.1.6"
 project.ext.lwjglNatives = "natives-windows"
+project.ext.jomlVersion = "1.9.8"
+
 
 repositories {
     mavenCentral()
@@ -39,5 +41,6 @@ dependencies {
     compile "org.lwjgl:lwjgl-opengl:$lwjglVersion:$lwjglNatives"
     compile "org.lwjgl:lwjgl-par:$lwjglVersion:$lwjglNatives"
     compile "org.lwjgl:lwjgl-stb:$lwjglVersion:$lwjglNatives"
+    compile "org.joml:joml:${jomlVersion}"
 }
 

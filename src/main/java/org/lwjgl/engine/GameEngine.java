@@ -1,7 +1,5 @@
 package org.lwjgl.engine;
 
-import org.lwjgl.game.Renderer;
-
 public class GameEngine implements Runnable {
 
     public static final int TARGET_FPS = 75;

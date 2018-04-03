@@ -30,5 +30,6 @@
     <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl-vulkan:3.1.6" level="project" />
     <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl:3.1.6" level="project" />
     <orderEntry type="library" name="Gradle: org.lwjgl:lwjgl:natives-windows:3.1.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.joml:joml:1.9.8" level="project" />
   </component>
 </module>

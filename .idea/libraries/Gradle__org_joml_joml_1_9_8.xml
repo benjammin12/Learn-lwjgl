@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.joml:joml:1.9.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.joml/joml/1.9.8/ea299da7fe302c58a8cf2ce6461fae3df9b3ff8a/joml-1.9.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.joml/joml/1.9.8/dade8235eac461dbaa06df7180a42c7d42a31e83/joml-1.9.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
